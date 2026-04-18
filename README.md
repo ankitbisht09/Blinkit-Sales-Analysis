@@ -21,6 +21,16 @@ Analyze Blinkit sales data to identify top-performing products and revenue trend
 ##  Dashboard
 An interactive dashboard was built using Power BI to visualize key metrics.
 
+##  Key Metrics
+- Total Revenue: ~5M+
+- Avg Order Value: ~994
+- Top 5 products contribute majority of sales
+
+##  What I Learned
+- Writing SQL queries for aggregation
+- Data cleaning and modeling
+- Building dashboards in Power BI
+
 ##  Files Included
 - `queries.sql` → SQL queries used for analysis
 - `blinkit.csv` → Dataset
